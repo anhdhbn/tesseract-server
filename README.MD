@@ -1,0 +1,5 @@
+- git pull https://github.com/anhdhbn/tesseract-server
+- Create app in https://dashboard.heroku.com/apps
+- git remote add heroku (url git heroku in here)
+- git commit -am "anything"
+- git push heroku master

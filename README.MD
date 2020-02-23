@@ -3,3 +3,4 @@
 - git remote add heroku (url git heroku in here)
 - git commit -am "anything"
 - git push heroku master
+- How to post request see `req.py` for more details

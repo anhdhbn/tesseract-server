@@ -1,6 +1,6 @@
 - git pull https://github.com/anhdhbn/tesseract-server
 - Create app in https://dashboard.heroku.com/apps
 - git remote add heroku (url git heroku in here)
-- git commit -am "anything"
+- heroku stack:set container
 - git push heroku master
 - How to post request see `req.py` for more details
